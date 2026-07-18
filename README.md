@@ -92,4 +92,4 @@ Este projeto é distribuído sob a licença MIT.
 
 Desenvolvido por mig farmi
 
-com revisão do chat gpt ooen ai
+com revisão do chat gpt open ai
