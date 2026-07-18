@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="texto_reconhecido_ou_digitado">Texto reconhecido ou digitado</string>
+    <string name="importar_voz">Importar Voz</string>
+    <string name="iniciar_gravação">Iniciar Gravação</string>
+    <string name="parar_gravação">Parar Gravação</string>
+    <string name="falar">Falar</string>
+    <string name="parar">Parar</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="falar_1">Falar</string>
+    <string name="importar_modelo">Importar Modelo</string>
+    <string name="texto_reconhecido_ou_digitado_1">Texto reconhecido ou digitado</string>
+    <string name="speaktoflower_v5">SpeakToFlower V5</string>
+</resources>
